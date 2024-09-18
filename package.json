@@ -81,7 +81,7 @@
     "react-instantsearch": "^7.1.0",
     "rehype-parse": "^7.0.1",
     "remark-admonitions": "github:josh-heyer/remark-admonitions",
-    "sass": "^1.68.0",
+    "sass": "^1.79.0",
     "truncate-utf8-bytes": "^1.0.2",
     "unist-util-visit-parents": "^3.1.1"
   },
