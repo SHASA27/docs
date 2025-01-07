@@ -10,7 +10,7 @@
   "author": "josh.heyer@enterprisedb.com",
   "license": "UNLICENSED",
   "dependencies": {
-    "fast-glob": "^3.2.12",
+    "fast-glob": "^3.3.3",
     "yaml": "^2.3.1"
   }
 }
