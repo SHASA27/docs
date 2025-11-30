@@ -10,8 +10,8 @@
   "author": "dj.walker-morgan@enterprisedb.com",
   "license": "UNLICENSED",
   "dependencies": {
-    "@google-cloud/local-auth": "^2.1.0",
-    "googleapis": "^105.0.0",
+    "@google-cloud/local-auth": "^3.0.0",
+    "googleapis": "^124.0.0",
     "minimist": "^1.2.8"
   }
 }
